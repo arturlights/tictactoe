@@ -5,7 +5,6 @@ public interface IController {
 
 	void spielFeldAnzeigen();
 
-
 	void spielerAnmelden(IPlayer player);
 	
 	void spielZugSetzen(int x, int y, IPlayer player);
