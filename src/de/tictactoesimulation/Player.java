@@ -1,4 +1,4 @@
-package de.artureisenkrein.tictactoe;
+package de.tictactoesimulation;
 
 public class Player implements IPlayer {
 	private int spielerID;

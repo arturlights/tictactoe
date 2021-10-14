@@ -1,4 +1,4 @@
-package de.artureisenkrein.tictactoe;
+package de.tictactoesimulation;
 
 import java.util.ArrayList;
 import java.util.List;
